@@ -62,6 +62,7 @@ footer{
 @media (min-width: 768px){
   body{
     width: 960px;
+    margin: auto;
   }
 
   header, nav, article, section, footer{
